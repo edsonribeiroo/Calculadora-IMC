@@ -1,0 +1,51 @@
+body{
+   
+    background-attachment: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    font-family: Arial;
+    background: #ccc;
+}
+
+div{
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    width: 400px;
+    border: 1px solid #fafafa;
+    background: #fafafa;
+    padding: 15px 25px;
+}
+
+h1{
+    text-align: center;
+}
+
+input{
+    height: 25px;
+    margin-bottom: 10px;
+    padding: o 5px;
+}
+
+button{
+    height: 50px;
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: 700;
+    margin: 15px 0;
+    border: 0;
+    border-radius: 10px;
+    background: #5159b1;
+    color: #fff;
+    cursor: pointer;
+}
+body{
+     background-image: url('./imagens/awesome-pictures-k287z98ruunquo28.jpg');
+    background-size: 380vh;
+    background-position: center;
+    background-repeat: no-repeat;   
+    display: inline-flexbox;
+}
+
